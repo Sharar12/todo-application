@@ -28,3 +28,5 @@ A beginner-friendly project for practicing JavaScript application logic and user
 
 For learning and portfolio purposes.
 <!-- [2024-10-25] feat: scaffold full-stack Todo application with Laravel API & Next.js client -->
+
+<!-- [2024-10-25] feat: implement task CRUD endpoints with MySQL database schema -->
