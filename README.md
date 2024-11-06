@@ -30,3 +30,5 @@ For learning and portfolio purposes.
 <!-- [2024-10-25] feat: scaffold full-stack Todo application with Laravel API & Next.js client -->
 
 <!-- [2024-10-25] feat: implement task CRUD endpoints with MySQL database schema -->
+
+<!-- [2024-11-06] feat: build task list component with priority levels and due date badges -->
