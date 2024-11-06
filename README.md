@@ -32,3 +32,5 @@ For learning and portfolio purposes.
 <!-- [2024-10-25] feat: implement task CRUD endpoints with MySQL database schema -->
 
 <!-- [2024-11-06] feat: build task list component with priority levels and due date badges -->
+
+<!-- [2024-11-06] feat: implement instant task completion toggle and inline editing -->
