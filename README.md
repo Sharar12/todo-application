@@ -36,3 +36,5 @@ For learning and portfolio purposes.
 <!-- [2024-11-06] feat: implement instant task completion toggle and inline editing -->
 
 <!-- [2024-11-11] feat: add category tag filters (work, personal, urgent) and search bar -->
+
+<!-- [2024-11-11] feat: implement batch clear completed tasks and task count stats -->
