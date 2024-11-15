@@ -38,3 +38,5 @@ For learning and portfolio purposes.
 <!-- [2024-11-11] feat: add category tag filters (work, personal, urgent) and search bar -->
 
 <!-- [2024-11-11] feat: implement batch clear completed tasks and task count stats -->
+
+<!-- [2024-11-15] style: polish modern UI styling with Tailwind CSS and smooth animations -->
