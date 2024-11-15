@@ -40,3 +40,5 @@ For learning and portfolio purposes.
 <!-- [2024-11-11] feat: implement batch clear completed tasks and task count stats -->
 
 <!-- [2024-11-15] style: polish modern UI styling with Tailwind CSS and smooth animations -->
+
+<!-- [2024-11-15] refactor: optimize task state caching and client-side error handling -->
